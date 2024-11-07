@@ -32,10 +32,10 @@ def print_instructions():
     
 For this program, you will choose 1 of 4 tests:
     
-1) \"a (number_1) (number_2)\"-> adds 2 numbers together in base 5
-2) \"m (number_1) (number_2)\"-> multiplies 2 numbers together in base 5
-3) \"g (number)\"-> converts a number from decimal(base 10) into gumatj(base 5)
-4) \"d (number)\"-> converts a number from gumatj into decimal"""
+1) \"d (number)\"-> converts a number from gumatj into decimal
+2) \"g (number)\"-> converts a number from decimal(base 10) into gumatj(base 5)
+3) \"a (number_1) (number_2)\"-> adds 2 numbers together in base 5
+4) \"m (number_1) (number_2)\"-> multiplies 2 numbers together in base 5"""
     
     print(instructions)
 
